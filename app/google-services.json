@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "140265244518",
+    "project_id": "geoinformaticapia",
+    "storage_bucket": "geoinformaticapia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140265244518:android:2e89565ec3ed605ecaeaa7",
+        "android_client_info": {
+          "package_name": "com.geoinformatica.pia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140265244518-r6cb8lpsu2bbitdcut8es8gql8ivlndu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFu4wiLMO6qDp7u9GHAKDFvEjXZtrLKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140265244518-r6cb8lpsu2bbitdcut8es8gql8ivlndu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140265244518:android:1e467773c95dada9caeaa7",
+        "android_client_info": {
+          "package_name": "com.pia.geoinformatica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140265244518-r6cb8lpsu2bbitdcut8es8gql8ivlndu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFu4wiLMO6qDp7u9GHAKDFvEjXZtrLKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140265244518-r6cb8lpsu2bbitdcut8es8gql8ivlndu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

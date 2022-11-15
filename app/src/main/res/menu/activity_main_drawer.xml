@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group>
+    <item
+        android:id="@+id/nav_item_cero"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Inicio" />
+
+</group>
+
+    <item android:title="Pedidos">
+    <menu>
+        <item
+            android:id="@+id/nav_item_one"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="Realizar Pedido" />
+
+        <item
+            android:id="@+id/nav_item_two"
+            android:icon="@drawable/ic_baseline_edit_note_24"
+            android:title="Ver Pedidos" />
+    </menu>
+    </item>
+
+    <item android:title="Clientes">
+        <menu>
+            <item
+                android:id="@+id/nav_item_trhee"
+                android:icon="@drawable/ic_baseline_person_add_24"
+                android:title="Agregar Nuevo Cliente" />
+            <item
+                android:id="@+id/nav_item_four"
+                android:icon="@drawable/ic_baseline_edit_24"
+                android:title="Editar Informacion De Cliente" />
+        </menu>
+</item>
+
+
+</menu>
